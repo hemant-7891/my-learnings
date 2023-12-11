@@ -5,6 +5,8 @@
   - [Key terms](#key-terms)
     - [Abstraction](#abstraction)
     - [Encapsulation](#encapsulation)
+    - [Inheritance](#inheritance)
+    - [Polymorphism](#polymorphism)
     - [Classes](#classes)
     - [Object](#object)
 
